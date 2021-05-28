@@ -1,0 +1,2 @@
+# UploadPaginaDeCapturaBarros
+Página de Captura
